@@ -1,5 +1,5 @@
 # ait-bus-timetable-data
-This is data of timetable of "Aichi Institute of Technology shuttle bus timetable" app, operation schedule.
+This is data of timetable and operation schedule of "Aichi Institute of Technology shuttle bus timetable" app.
 
 # timetable.xml
 ## destination
