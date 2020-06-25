@@ -45,7 +45,7 @@
 			</time>
 			<time>
 				<hour>18</hour>
-				<minute>00,15,30,45</minute>
+				<minute>00,15,45</minute>
 			</time>
 			<time>
 				<hour>19</hour>
@@ -67,19 +67,19 @@
 			</time>
 			<time>
 				<hour>9</hour>
-				<minute>00,05,15,35,50</minute>
+				<minute>00,05,25,35,50</minute>
 			</time>
 			<time>
 				<hour>10</hour>
-				<minute>00,05,15,35,50</minute>
+				<minute>00,10,30,55</minute>
 			</time>
 			<time>
 				<hour>11</hour>
-				<minute>05,35</minute>
+				<minute>00,25,50</minute>
 			</time>
 			<time>
 				<hour>12</hour>
-				<minute>05,35</minute>
+				<minute>25</minute>
 			</time>
 			<time>
 				<hour>13</hour>
@@ -125,19 +125,19 @@
 			</time>
 			<time>
 				<hour>9</hour>
-				<minute>05,35</minute>
+				<minute>00,25,50</minute>
 			</time>
 			<time>
 				<hour>10</hour>
-				<minute>05,35</minute>
+				<minute>10,55</minute>
 			</time>
 			<time>
 				<hour>11</hour>
-				<minute>05,35</minute>
+				<minute>25,50</minute>
 			</time>
 			<time>
 				<hour>12</hour>
-				<minute>05,35</minute>
+				<minute>25</minute>
 			</time>
 			<time>
 				<hour>13</hour>
@@ -243,19 +243,19 @@
 			</time>
 			<time>
 				<hour>9</hour>
-				<minute>50</minute>
+				<minute>40</minute>
 			</time>
 			<time>
 				<hour>10</hour>
-				<minute>20,50</minute>
+				<minute>05,50</minute>
 			</time>
 			<time>
 				<hour>11</hour>
-				<minute>20,50</minute>
+				<minute>15,40</minute>
 			</time>
 			<time>
 				<hour>12</hour>
-				<minute>20</minute>
+				<minute>10</minute>
 			</time>
 			<time>
 				<hour>13</hour>
@@ -301,19 +301,19 @@
 			</time>
 			<time>
 				<hour>9</hour>
-				<minute>50</minute>
+				<minute>40</minute>
 			</time>
 			<time>
 				<hour>10</hour>
-				<minute>20,50</minute>
+				<minute>05,50</minute>
 			</time>
 			<time>
 				<hour>11</hour>
-				<minute>20,50</minute>
+				<minute>15,40</minute>
 			</time>
 			<time>
 				<hour>12</hour>
-				<minute>20</minute>
+				<minute>10</minute>
 			</time>
 			<time>
 				<hour>13</hour>
