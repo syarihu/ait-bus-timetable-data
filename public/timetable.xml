@@ -41,7 +41,7 @@
 			</time>
 			<time>
 				<hour>17</hour>
-				<minute>00,15,30,45</minute>
+				<minute>00,10,25,40</minute>
 			</time>
 			<time>
 				<hour>18</hour>
@@ -217,7 +217,7 @@
 			</time>
 			<time>
 				<hour>17</hour>
-				<minute>00,05,10,15,30,35,40,45,55</minute>
+				<minute>00,10,15,20,25,30,35,40,45,55</minute>
 			</time>
 			<time>
 				<hour>18</hour>
