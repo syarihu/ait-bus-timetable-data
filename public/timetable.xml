@@ -63,7 +63,7 @@
 		<timetable name="1">
 			<time>
 				<hour>8</hour>
-				<minute>00,10,20,35,45</minute>
+				<minute>10,20,35,45</minute>
 			</time>
 			<time>
 				<hour>9</hour>
