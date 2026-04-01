@@ -63,23 +63,23 @@
 		<timetable name="1">
 			<time>
 				<hour>8</hour>
-				<minute>10,20,35,45</minute>
+				<minute>00,10,20,35,45</minute>
 			</time>
 			<time>
 				<hour>9</hour>
-				<minute>00,05,25,35,50</minute>
+				<minute>00,05,15,25,50</minute>
 			</time>
 			<time>
 				<hour>10</hour>
-				<minute>00,10,30,55</minute>
+				<minute>00,15,25,50</minute>
 			</time>
 			<time>
 				<hour>11</hour>
-				<minute>00,25,50</minute>
+				<minute>15,50</minute>
 			</time>
 			<time>
 				<hour>12</hour>
-				<minute>25</minute>
+				<minute>15</minute>
 			</time>
 			<time>
 				<hour>13</hour>
@@ -95,11 +95,11 @@
 			</time>
 			<time>
 				<hour>16</hour>
-				<minute>05,45</minute>
+				<minute>05,35</minute>
 			</time>
 			<time>
 				<hour>17</hour>
-				<minute>10,45</minute>
+				<minute>05,35</minute>
 			</time>
 			<time>
 				<hour>18</hour>
@@ -247,35 +247,35 @@
 			</time>
 			<time>
 				<hour>10</hour>
-				<minute>05,50</minute>
+				<minute>05,20,55</minute>
 			</time>
 			<time>
 				<hour>11</hour>
-				<minute>15,40</minute>
+				<minute>00,10,20,30,40,50</minute>
 			</time>
 			<time>
 				<hour>12</hour>
-				<minute>10</minute>
+				<minute>00,10,20,30,40,50</minute>
 			</time>
 			<time>
 				<hour>13</hour>
-				<minute>20,50</minute>
+				<minute>05,20,35,50</minute>
 			</time>
 			<time>
 				<hour>14</hour>
-				<minute>20,50</minute>
+				<minute>00,20,30,50</minute>
 			</time>
 			<time>
 				<hour>15</hour>
-				<minute>20,50</minute>
+				<minute>00,20,30,50</minute>
 			</time>
 			<time>
 				<hour>16</hour>
-				<minute>20</minute>
+				<minute>20,50</minute>
 			</time>
 			<time>
 				<hour>17</hour>
-				<minute>00,30,55</minute>
+				<minute>20,50</minute>
 			</time>
 			<time>
 				<hour>18</hour>
